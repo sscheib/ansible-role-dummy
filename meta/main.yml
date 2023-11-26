@@ -1,0 +1,18 @@
+---
+galaxy_info:
+  role_name: 'dummy'
+  namespace: 'sscheib'
+  author: 'Steffen Scheib'
+  description: 'A sample role'
+  issue_tracker_url: 'https://github.com/sscheib/ansible-role-dummy'
+  license: 'GPL-2.0-or-later'
+  min_ansible_version: '2.12'
+  platforms:
+    - name: 'EL'
+      versions:
+        - '9'
+        - '8'
+  galaxy_tags:
+    - 'dummy'
+dependencies: []
+...

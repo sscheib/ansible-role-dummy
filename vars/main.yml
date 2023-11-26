@@ -1,0 +1,4 @@
+---
+# message to display
+_message: '{{ message | default(_def_message) }}'
+...
